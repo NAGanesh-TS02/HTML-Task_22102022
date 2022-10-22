@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(74, 118, 211);
+}
+header{
+    height: 60vh;
+    background: url(https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=1500);
+    background-size: cover;
+    margin: 0 20%;
+}
+header h1{
+  padding-top: 7%;
+  margin-left: 60%;
+  color: azure;
+}
+header p{
+    
+    margin-left: 60%;
+    color: azure;
+    font-size: larger;
+  }
+section{
+    padding: 3% 3%;
+    background-color: antiquewhite;
+    margin: 0 20%;
+}  
+section p{
+    font-size: small;
+}
+.nav1{
+    margin: 0 18%;
+    background-image: linear-gradient(blue, black);
+    box-shadow: 0 10px  rgb(122, 140, 243);
+   
+   
+}
