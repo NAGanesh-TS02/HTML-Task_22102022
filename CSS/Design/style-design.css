@@ -1,0 +1,33 @@
+figcaption {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    cursor: pointer;
+    color: rgb(4, 83, 83);
+}
+
+img {
+    height: 200px;
+    width: 300px;
+    cursor: pointer;
+}
+.float-left{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top:10px ;
+    border: solid rgb(4, 83, 83);
+    clear:right;
+}
+.float-right{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top:10px ;
+    border: solid rgb(4, 83, 83);
+    clear:left;
+}
+.row p{
+    font-size: 16px;
+    color:rgb(58, 58, 58);
+}
